@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">W3_Res_Intent_listView_Demo_Change</string>
+    <string name="age_caption">age</string>
+    <string name="action_butt">transfer</string>
+    <string name="show_map">showMap</string>
+
+    <string-array name="my_item">
+        <item> CSIT552</item>
+        <item> CSIT553</item>
+        <item> CSIT554</item>
+        <item> CSIT555</item>
+        <item> CSIT556</item>
+
+        </string-array>
+</resources>
